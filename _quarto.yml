@@ -8,7 +8,7 @@ book:
   date: "22/10/2024"
   page-navigation: true
   search: true
-  repo-url: https://github.com/urbana98/Quarto-book
+  repo-url: https://github.com/urbana98/SNA-in-R
   repo-actions: [edit]
   downloads: [pdf, epub]
   sharing: [twitter, facebook]
@@ -23,6 +23,8 @@ bibliography: references.bib
 format:
   html:
     theme: cosmo
+    downloads: [pdf, epub]
+    lang: cs
   pdf:
     documentclass: scrreprt
 
